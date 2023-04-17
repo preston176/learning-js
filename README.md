@@ -11,7 +11,6 @@
 [CodeWithMosh - Javascript in 1 hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 
-
 `you can also checkout courses from`
 
 FrontEndmasters - (http://frontendmasters.com/bootcamp)
